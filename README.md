@@ -27,17 +27,12 @@ This project is designed to demonstrate **Object-Oriented Programming (OOP)** pr
 
 1. **Clone this repository**
 
-```bash
+```
 git clone https://github.com/emfarhand/Glosarium.git
 cd Glosarium
 Open in your Java IDE (NetBeans, IntelliJ, or VS Code)
 
 Compile and Run
-
-bash
-Salin kode
-javac src/glosarium/*.java
-java glosarium.Main
 
 ```
 
