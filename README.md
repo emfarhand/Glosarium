@@ -1,4 +1,4 @@
-# 📚 Quiz Nusantara
+# 📚 Glosarium
 
 A **Java-based glossary application** that allows users to store, search, insert, and delete glossary terms efficiently using a **Heap Tree data structure**.  
 This project is designed to demonstrate **Object-Oriented Programming (OOP)** principles and **Tree-based data management** in Java.
@@ -11,7 +11,7 @@ This project is designed to demonstrate **Object-Oriented Programming (OOP)** pr
 ✅ **Insert Terms** – Add new words and their definitions dynamically.  
 ✅ **Search Terms** – Quickly find words using tree traversal logic.  
 ✅ **Delete Terms** – Remove words and rebalance the tree.  
-✅ **User-Friendly Interface** – Simple form-based input/output for ease of use.  
+✅ **User-Friendly Interface** – Simple form-based input/output for ease of use.
 
 ---
 
@@ -26,6 +26,7 @@ This project is designed to demonstrate **Object-Oriented Programming (OOP)** pr
 ## ⚙️ How to Run
 
 1. **Clone this repository**
+
 ```bash
 git clone https://github.com/emfarhand/Glosarium.git
 cd Glosarium
